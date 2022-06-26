@@ -1,0 +1,54 @@
+  1 .  BRAND : VISA
+        NUMBER : 4798512971912573
+        BANK : CHASE
+        NAME : Natella Shala
+        ADDRESS : 3531 Tree Frog Lane
+        COUNTRY : UNITED STATES
+        MONEY : $3557
+        CVV/CVV2 : 412
+        EXPIRY : 09/2029
+        PIN : 6438
+
+  2 .  BRAND : VISA
+        NUMBER : 4798516245622710
+        BANK : CHASE
+        NAME : Jack Laughton
+        ADDRESS : 3982 Paul Wayne Haggerty Road
+        COUNTRY : UNITED STATES
+        MONEY : $5815
+        CVV/CVV2 : 245
+        EXPIRY : 05/2024
+        PIN : 9123
+
+  3 .  BRAND : VISA
+        NUMBER : 4833236189002616
+        BANK : CHASE
+        NAME : Anthony Beckenbauer
+        ADDRESS : 3053 Ridge Road
+        COUNTRY : UNITED STATES
+        MONEY : $6063
+        CVV/CVV2 : 429
+        EXPIRY : 01/2026
+        PIN : 1293
+
+  4 .  BRAND : VISA
+        NUMBER : 4833236502221232
+        BANK : CHASE
+        NAME : Abel Miki
+        ADDRESS : 4217 Glenview Drive
+        COUNTRY : UNITED STATES
+        MONEY : $2736
+        CVV/CVV2 : 294
+        EXPIRY : 03/2029
+        PIN : 4599
+
+  5 .  BRAND : VISA
+        NUMBER : 4833249881370546
+        BANK : CHASE
+        NAME : Alexandra Correia
+        ADDRESS : 4221 Lost Creek Road
+        COUNTRY : UNITED STATES
+        MONEY : $1046
+        CVV/CVV2 : 294
+        EXPIRY : 08/2022
+        PIN : 8329
